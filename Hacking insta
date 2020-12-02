@@ -1,0 +1,4 @@
+git remote add origin https://github.com/lakshaymalik8/instagram-.git
+cd shellphish
+kd
+chmod +x *
